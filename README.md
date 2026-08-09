@@ -1,4 +1,4 @@
-# rav-writes-abinitio-to-spark
+# ravi-writes-abinitio-to-spark
 
 Runnable notebooks that accompany the **Ab Initio → PySpark** notes at
 **[ravi-writes.pages.dev](https://ravi-writes.pages.dev/notes/abinitio-to-pyspark/core-operations/)**.
